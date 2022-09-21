@@ -1,0 +1,63 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 2313891 */
+  src: url('./src/iconfont.woff2') format('woff2'),
+       url('./src/iconfont.woff') format('woff'),
+       url('./src/iconfont.ttf') format('truetype');
+}
+
+[class*='mg-icon-'] {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.mg-icon-gouwuche:before {
+  content: "\e607";
+}
+
+.mg-icon-kefu:before {
+  content: "\e635";
+}
+
+.mg-icon-icon:before {
+  content: "\e633";
+}
+
+.mg-icon-gerenzhongxin:before {
+  content: "\e651";
+}
+
+.mg-icon-shoujichongzhi:before {
+  content: "\e732";
+}
+
+.mg-icon-shouhoufuwu:before {
+  content: "\e687";
+}
+
+.mg-icon-shizhong:before {
+  content: "\e78b";
+}
+
+.mg-icon-sim_card:before {
+  content: "\e6af";
+}
+
+.mg-icon-qian:before {
+  content: "\e620";
+}
+
+.mg-icon-shinshopshouhoufuwu:before {
+  content: "\e622";
+}
+
+.mg-icon-ziyuan:before {
+  content: "\e610";
+}
+
+.mg-icon-F_round:before {
+  content: "\e632";
+}
+
